@@ -177,8 +177,7 @@ For a comprehensive overview of the project, refer to the detailed documentation
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username): Project Lead, Algorithm Implementation
-- [Collaborator Name](https://github.com/collaborator-username): Visualizations, Documentation
+(https://github.com/KAMAlhameedawi/CuCengRL-mcts-homework-final-project2/tree/main)
 
 ## Acknowledgments
 
